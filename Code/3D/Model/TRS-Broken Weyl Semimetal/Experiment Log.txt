@@ -1,0 +1,16 @@
+=========================================================
+Description: TRS-broken WSM
+Date: 2025-11-07
+Parameters: 
+    Model: Dynamical Axion BHZ
+        {
+        A1 = 0.40;  A2 = 0.4000;
+        B1 = 0.3;  B2x = 0.3;  B2y = 0.3;
+        C = 0.0000;  D1 = 0.0;  D2 = 0.0;
+        M = 0.0; Delta = 0.7;
+        }
+Results:
+    Spin Hall Conductivity
+        K-mesh
+        Conductivity^sx_xz
+=========================================================
